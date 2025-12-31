@@ -54,6 +54,9 @@ This visualization demonstrates how **relational analytics** can reveal storytel
 
 
 
+![friendsssss](https://github.com/user-attachments/assets/60dbf3e8-9e31-4f61-ba23-a881d97e3d3e)
+
+
 
 ![friends_icon__](https://github.com/user-attachments/assets/486218a2-d738-4c58-83f7-57644e572562)
 
