@@ -46,10 +46,14 @@ Dialogue volume aligns strongly with **narrative importance**, not equal screen 
 
 This visualization demonstrates how **relational analytics** can reveal storytelling structure. By prioritizing interaction strength over raw counts, the chord diagram surfaces the true conversational backbone of Friends.
 
-## Components Covered 
+## Components the project covers
 
 **Visual Design Strategy, Data Visualization, Visual Analytics Best Practices**
+
 ![Word_spoken_by_Friends](https://github.com/user-attachments/assets/5b8a2c54-c1e8-431b-82d4-d51ffa7cc95e)
 
 
+
+
+![friends_icon__](https://github.com/user-attachments/assets/486218a2-d738-4c58-83f7-57644e572562)
 
