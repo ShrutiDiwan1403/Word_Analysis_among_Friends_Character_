@@ -48,7 +48,8 @@ This visualization demonstrates how **relational analytics** can reveal storytel
 
 ## Components Covered 
 
-**Visual Design Strategy,**
+**Visual Design Strategy, Data Visualization, Visual Analytics Best Practices**
+![Word_spoken_by_Friends](https://github.com/user-attachments/assets/5b8a2c54-c1e8-431b-82d4-d51ffa7cc95e)
 
 
 
